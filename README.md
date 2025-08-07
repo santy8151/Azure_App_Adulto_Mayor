@@ -31,9 +31,8 @@ Esta aplicación está diseñada para mejorar la calidad de vida de los adultos 
 ## 🔧 Tecnologías utilizadas
 
 - **Backend:** Java 17 con Spring Boot  
-- **Base de datos:** Azure SQL / Cosmos DB  
-- **Frontend:** React Native (móvil)  
-- **Autenticación:** Azure Active Directory B2C (opcional)  
+- **Base de datos:** Azure SQL   
+- **Frontend:** React Native (móvil)   
 - **CI/CD:** Azure DevOps  
 - **Control de versiones:** Git
 
