@@ -20,7 +20,7 @@ Esta aplicación está diseñada para mejorar la calidad de vida de los adultos 
 | Servicio Azure               | Uso en el proyecto                                 |
 |-----------------------------|----------------------------------------------------|
 | Azure App Service (Java)    | Despliegue del backend en Java (Spring Boot)       |
-| Azure SQL Database / Cosmos DB | Almacenamiento de datos médicos y usuarios     |
+| Azure SQL Database| Almacenamiento de datos médicos y usuarios     |
 | Azure Bot Service           | Implementación del asistente virtual               |
 | Azure Notification Hubs     | Notificaciones push a móviles                      |
 | Azure Functions (Java)      | Automatización de tareas como recordatorios        |
@@ -32,7 +32,7 @@ Esta aplicación está diseñada para mejorar la calidad de vida de los adultos 
 
 - **Backend:** Java 17 con Spring Boot  
 - **Base de datos:** Azure SQL   
-- **Frontend:** React Native (móvil)   
+- **Frontend:** React Native(móvil)   
 - **CI/CD:** Azure DevOps  
 - **Control de versiones:** Git
 
