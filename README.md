@@ -394,8 +394,4 @@ VidaPlena API activa ✅
 
 ## Licencia
 
-MIT © 2026 VidaPlena – Corporación Unificada Nacional de Educación Superior (CUN)
-
----
-
-> Desarrollado con ❤️ para mejorar la calidad de vida de los adultos mayores en Colombia.
+MIT © 2026 VidaPlena 
